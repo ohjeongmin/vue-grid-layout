@@ -1,5 +1,3 @@
-# vue-grid-layout #vue-grid-item
-
 # 알고리즘 설명
 vue-grid-layout에서 item을 신규로 생성할 때
 위에서부터 아래로, 아래서부터 위로 좌표를 순차 탐색하여
